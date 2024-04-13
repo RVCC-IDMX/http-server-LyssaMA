@@ -1,0 +1,16 @@
+{
+  "name": "http-server-lyssama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alyssa Anderson <alyssam.anderson@yahoo.com> (https://github.com/RVCC-IDMX/cowsay-LyssaMA)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
